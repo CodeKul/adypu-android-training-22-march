@@ -1,0 +1,23 @@
+Throwable ->
+
+  1. Exception - >
+                 1. IOException //checked exc
+                 2. SQLException //checked exc
+                 3. ClassNotFoundException
+                 4. RuntimeException ->//unchecked exc
+                                       ArithematicException
+                                       NullpointerException
+                                       NumberFormatException
+                                       IndexOutOfBoundException - >
+                                                ArrayIndexOutOfBoundException
+                                                StringIndexOutOfBoundException
+
+
+
+  2. Error ->
+
+        1. StackOverFlowError
+        2. OutOfMemoryError
+
+
+        adypu-android-training
