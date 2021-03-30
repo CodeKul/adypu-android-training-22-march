@@ -9,8 +9,6 @@ public class StackOverFlowError {
         }else {
             recursive(i);
         }
-
-
     }
 
     public static void main(String[] args) {
